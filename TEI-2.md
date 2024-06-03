@@ -13,9 +13,9 @@
 1. Resolver este problema é relevante por que porque a crescente adoção de inteligências artificiais para tarefas de desenvolvimento de software traz à tona a necessidade de entender a eficácia dessas ferramentas em termos de precisão e qualidade do código gerado. Este estudo visa preencher a lacuna existente na literatura ao fornecer uma análise detalhada das capacidades e limitações das IAs na geração de código, contribuindo para a melhoria contínua dessas tecnologias e sua integração eficaz na indústria de software.
 1. O objetivo geral deste trabalho é : Investigar e analisar a eficácia das inteligências artificiais na geração de código, com foco na taxa de acerto e na qualidade do software produzido.
 1. Os *três* objetivos específicos deste trabalho são:
-   1. Avaliar a precisão da geração de código por diferentes ferramentas de IA (ex.: GPT-4, Codex).
-   2. Identificar as principais limitações e desafios enfrentados pelas IAs na geração de código.
-   3. Comparar a eficiência e a qualidade do código gerado por IAs com o código produzido por desenvolvedores humanos.
+   - Avaliar a precisão da geração de código por diferentes ferramentas de IA (ex.: GPT-4, Codex).
+   - Identificar as principais limitações e desafios enfrentados pelas IAs na geração de código.
+   - Comparar a eficiência e a qualidade do código gerado por IAs com o código produzido por desenvolvedores humanos.
 
 ## Fundamentação Teórica
 
