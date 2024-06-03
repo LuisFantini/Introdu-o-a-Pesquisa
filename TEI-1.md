@@ -19,7 +19,6 @@ Os objetivos específicos são:
 1. Avaliar a precisão da geração de código por diferentes ferramentas de IA (ex.: GPT-4, Codex).
 2. Identificar as principais limitações e desafios enfrentados pelas IAs na geração de código.
 3. Comparar a eficiência e a qualidade do código gerado por IAs com o código produzido por desenvolvedores humanos.
-4. Analisar casos de uso específicos onde a geração de código por IA apresenta maior acurácia.
    
 # Materiais e Métodos
 **Materiais:** 
