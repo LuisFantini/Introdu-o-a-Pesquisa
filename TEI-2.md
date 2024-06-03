@@ -34,9 +34,9 @@
 2. O tipo de pesquisa adotado neste trabalho é pesquisa experimental, porque envolve a realização de experimentos controlados para avaliar a eficácia das ferramentas de IA na geração de código.
 3. Os materiais utilizados neste trabalho são ferramentas de IA para geração de código (ex.: GPT-4, Codex), repositórios de código para análise comparativa, questionários para coleta de dados qualitativos, e ferramentas de análise de código como SonarQube.
 4. Os métodos empregados neste trabalho são:
-   1. Método de amostragem: seleção de projetos de software representativos de diferentes domínios para análise.
-   2. Método de análise de correlação: para avaliar a relação entre as variáveis de precisão, qualidade e eficiência do código gerado.
-   3. Método de estudo de caso: análise detalhada de empresas que adotaram ferramentas de IA para geração de código.
+   - Método de amostragem: seleção de projetos de software representativos de diferentes domínios para análise.
+   - Método de análise de correlação: para avaliar a relação entre as variáveis de precisão, qualidade e eficiência do código gerado.
+   - Método de estudo de caso: análise detalhada de empresas que adotaram ferramentas de IA para geração de código.
 5. As métricas de avaliação são: precisão (acurácia), recall, F1-score, legibilidade do código, eficiência (tempo de geração de código), e taxa de erros.
 6. As etapas de execução do trabalho são:
  - Revisão da literatura e seleção das ferramentas de IA para geração de código.
