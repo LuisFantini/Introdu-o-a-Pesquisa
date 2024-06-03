@@ -6,25 +6,31 @@
 * Lesandro Ponciano
 
 # Tema
-O tema tratado na pesquisa é desenvolvimento ágil: impacto na produtividade das equipes de desenvolvimento
+O tema tratado na pesquisa é desenvolvimento ágil: Geração de código automático com inteligência artificial e seu uso no desenvolvimento de software
 
 # Problema
-O problema a ser resolvido na pesquisa é: Como a adoção de metodologias ágeis impacta a produtividade das equipes de desenvolvimento de software? De que maneira a adoção de metodologias ágeis influencia a qualidade do código produzido pelas equipes de desenvolvimento de software? Como a adoção de metodologias ágeis afeta a satisfação e o engajamento dos membros das equipes de desenvolvimento de software?
+O problema a ser resolvido na pesquisa é: Como a utilização de inteligências artificiais para geração de código impacta a taxa de acerto e a qualidade do software desenvolvido? Quais são as principais dificuldades e limitações enfrentadas na geração de código por IAs? De que maneira diferentes abordagens de IA (ex.: GPT-4, Codex) se comparam em termos de precisão e eficiência na geração de código?
 
 # Objetivo geral
-O objetivo geral a ser alcançado nesta pesquisa é investigar e analisar o impacto das metodologias ágeis na produtividade das equipes de desenvolvimento de software.
+Investigar e analisar a eficácia das inteligências artificiais na geração de código, com foco na taxa de acerto e na qualidade do software produzido.
 
 # Objetivos específicos
 Os objetivos específicos são:
-1. Comparar a produtividade das equipes antes e depois da adoção de metodologias ágeis.
-2. Coletar dados empíricos de equipes utilizando metodologias ágeis e tradicionais.
-3. Analisar a adoção de diferentes metodologias ágeis (Scrum, Kanban, etc.) em equipes de desenvolvimento.
+1. Avaliar a precisão da geração de código por diferentes ferramentas de IA (ex.: GPT-4, Codex).
+2. Identificar as principais limitações e desafios enfrentados pelas IAs na geração de código.
+3. Comparar a eficiência e a qualidade do código gerado por IAs com o código produzido por desenvolvedores humanos.
+4. Analisar casos de uso específicos onde a geração de código por IA apresenta maior acurácia.
    
 # Materiais e Métodos
-**Materiais:** Ferramentas de gerenciamento de projetos (Jira, Trello), questionários para coleta de dados qualitativos, repositórios de código para análise de métricas.
+**Materiais:** 
+- Ferramentas de IA para geração de código (ex.: GPT-4, Codex). 
+- Repositórios de código e bases de dados de benchmarks de qualidade de software.
+- Questionários para coleta de dados qualitativos sobre a experiência dos desenvolvedores com IAs.
+- Ferramentas de análise de código (ex.: SonarQube) para avaliação de métricas de qualidade.
 
 **Métodos:**
-- **Coleta de Dados:** Utilização de questionários e entrevistas com membros das equipes, análise de dados de produtividade a partir de ferramentas de gerenciamento de projetos.
-- **Análise Comparativa:** Comparação de métricas de produtividade antes e depois da adoção de metodologias ágeis.
-- **Estudo de Caso:** Realização de estudos de caso com empresas que adotaram metodologias ágeis recentemente.
+- **Coleta de Dados:** Utilização de questionários e entrevistas com desenvolvedores que utilizam IAs para geração de código. Análise de dados de precisão e qualidade a partir de ferramentas de IA.
+- **Análise Comparativa:** Comparação de métricas de qualidade e precisão do código gerado por IAs versus código escrito por desenvolvedores humanos.
+- **Estudo de Caso:** Realização de estudos de caso com empresas que adotaram ferramentas de IA para geração de código, analisando a eficiência, limitações e resultados obtidos.
+- **Estatística:** Aplicação de análise estatística para validar os resultados obtidos, utilizando métricas como precisão, recall, e F1-score para avaliação da acurácia do código gerado por IA.
 
