@@ -6,7 +6,7 @@
 * Lesandro Ponciano
 
 # Tema
-O tema tratado na pesquisa é desenvolvimento ágil: Geração de código automático com inteligência artificial e seu uso no desenvolvimento de software
+O tema tratado na pesquisa é Geração de código automático com inteligência artificial e seu uso no desenvolvimento de software
 
 # Problema
 O problema a ser resolvido na pesquisa é: Como a utilização de inteligências artificiais para geração de código impacta a taxa de acerto e a qualidade do software desenvolvido? Quais são as principais dificuldades e limitações enfrentadas na geração de código por IAs? De que maneira diferentes abordagens de IA (ex.: GPT-4, Codex) se comparam em termos de precisão e eficiência na geração de código?
