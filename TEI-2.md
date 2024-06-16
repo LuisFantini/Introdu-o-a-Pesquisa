@@ -31,14 +31,14 @@
 
 ## Materiais e Métodos
 
-2. O tipo de pesquisa adotado neste trabalho é pesquisa experimental e qualitativa, porque envolve a realização de experimentos controlados para avaliar a eficácia das ferramentas de IA na geração de código.
-3. Os materiais utilizados neste trabalho são ferramentas de IA para geração de código (ex.: GPT-4, Codex), repositórios de código para análise comparativa, questionários para coleta de dados qualitativos, e ferramentas de análise de código como SonarQube.
-4. Os métodos empregados neste trabalho são:
-   - Método de amostragem: seleção de projetos de software representativos de diferentes domínios para análise.
-   - Método de análise de correlação: para avaliar a relação entre as variáveis de precisão, qualidade e eficiência do código gerado.
-   - Método de estudo de caso: análise detalhada de empresas que adotaram ferramentas de IA para geração de código.
-5. As métricas de avaliação são: precisão, legibilidade do código, eficiência (tempo de geração de código), e taxa de erros.
-6. As etapas de execução do trabalho são:
+1. O tipo de pesquisa adotado neste trabalho é experimental e descritiva, porque envolve a realização de experimentos controlados para avaliar a eficácia das ferramentas de IA na geração de código, bem como a descrição detalhada dos processos e resultados observados.
+2. Os materiais utilizados neste trabalho são ferramentas de IA para geração de código (ex.: GPT-4, Codex), repositórios de código para análise comparativa, e ferramentas de análise de código como SonarQube.
+3. Os métodos empregados neste trabalho são:
+   - Método de amostragem: Seleção de 10 projetos de software representativos de diferentes domínios (ex.: e-commerce, saúde, finanças) a partir de repositórios públicos como GitHub. Os projetos serão escolhidos com base em critérios como popularidade (número de estrelas e forks) e documentação disponível, garantindo que alguns foram gerados com auxílio de IA e outros não.
+   - Método de análise de correlação: Para avaliar a relação entre as variáveis de precisão, qualidade e eficiência do código gerado.
+   - Método de estudo de caso: Análise detalhada de três empresas que adotaram ferramentas de IA para geração de código, observando o impacto na produtividade e qualidade do software.
+4. As métricas de avaliação são: precisão, legibilidade do código, eficiência (tempo de geração de código), e taxa de erros.
+5. As etapas de execução do trabalho são:
  - Definição dos projetos de software e dados a serem utilizados nos experimentos.
  - Coleta de dados qualitativos através de questionários e entrevistas com desenvolvedores.
  - Realização dos experimentos de geração de código utilizando as ferramentas de IA.
