@@ -38,10 +38,4 @@
    - Método de análise de correlação: Para avaliar a relação entre as variáveis de precisão, qualidade e eficiência do código gerado.
    - Método de estudo de caso: Análise detalhada de três empresas que adotaram ferramentas de IA para geração de código, observando o impacto na produtividade e qualidade do software.
 4. As métricas de avaliação são: precisão, legibilidade do código, eficiência (tempo de geração de código), e taxa de erros.
-5. As etapas de execução do trabalho são:
- - Definição dos projetos de software e dados a serem utilizados nos experimentos.
- - Coleta de dados qualitativos através de questionários e entrevistas com desenvolvedores.
- - Realização dos experimentos de geração de código utilizando as ferramentas de IA.
- - Análise comparativa dos resultados utilizando métricas definidas.
- - Discussão dos resultados e identificação das principais limitações e desafios.
- - Conclusão e recomendações para futuras pesquisas.
+5. As etapas de execução do trabalho são: (1) Definição dos projetos de software e dados a serem utilizados nos experimentos; (2) Coleta de dados qualitativos através de questionários e entrevistas com desenvolvedores; (3) Realização dos experimentos de geração de código utilizando as ferramentas de IA; (4) Análise comparativa dos resultados utilizando métricas definidas; (5) Discussão dos resultados e identificação das principais limitações e desafios; (6) Conclusão e recomendações para futuras pesquisas.
